@@ -33,5 +33,25 @@ namespace ElevenNote.Services
                 return ctg.SaveChanges() == 1;
             }
         }
+
+        public IEnumerable<CategoryListItem> GetCategories()
+        {
+            using (var ctg = new ApplicationDbContext())
+            {
+                var query =
+                    ctg
+                        .Categories
+                        .Where(c => c.OwnerId == _categoryId)
+                        .Select(
+                            c =>
+                                new CategoryListItem
+                                {
+                                    CategoryId = c.CategoryId,
+                                    Title = c.Title
+                                }
+                        );
+                return query.ToArray();
+            }
+        }
     }
 }

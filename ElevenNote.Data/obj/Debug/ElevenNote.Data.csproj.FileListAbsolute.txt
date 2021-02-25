@@ -33,3 +33,6 @@ C:\Users\mboon\source\repos\BBLessons\ElevenNote.Data\obj\Debug\ElevenNote.Data.
 C:\Users\mboon\source\repos\BBLessons\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CopyComplete
 C:\Users\mboon\source\repos\BBLessons\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
 C:\Users\mboon\source\repos\BBLessons\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
+C:\Users\mboon\source\repos\BBLessons\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialCreate.resources
+C:\Users\mboon\source\repos\BBLessons\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.cache
+C:\Users\mboon\source\repos\BBLessons\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.Initial.resources
