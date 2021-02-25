@@ -1,0 +1,12 @@
+C:\Users\mboon\source\repos\BBLessons\12_APIs\bin\Debug\12_APIs.exe.config
+C:\Users\mboon\source\repos\BBLessons\12_APIs\bin\Debug\12_APIs.exe
+C:\Users\mboon\source\repos\BBLessons\12_APIs\bin\Debug\12_APIs.pdb
+C:\Users\mboon\source\repos\BBLessons\12_APIs\obj\Debug\12_APIs.csprojAssemblyReference.cache
+C:\Users\mboon\source\repos\BBLessons\12_APIs\obj\Debug\12_APIs.csproj.CoreCompileInputs.cache
+C:\Users\mboon\source\repos\BBLessons\12_APIs\obj\Debug\12_APIs.exe
+C:\Users\mboon\source\repos\BBLessons\12_APIs\obj\Debug\12_APIs.pdb
+C:\Users\mboon\source\repos\BBLessons\12_APIs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mboon\source\repos\BBLessons\12_APIs\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\mboon\source\repos\BBLessons\12_APIs\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mboon\source\repos\BBLessons\12_APIs\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\mboon\source\repos\BBLessons\12_APIs\obj\Debug\12_APIs.csproj.CopyComplete
