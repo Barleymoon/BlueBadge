@@ -125,3 +125,8 @@ C:\Users\mboon\source\repos\BBLessons\ElevenNote.WebAPI\obj\Debug\ElevenNote.Web
 C:\Users\mboon\source\repos\BBLessons\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.pdb
 C:\Users\mboon\source\repos\BBLessons\ElevenNote.WebAPI\bin\Swashbuckle.Core.dll
 C:\Users\mboon\source\repos\BBLessons\ElevenNote.WebAPI\bin\WebActivatorEx.dll
+C:\Users\mboon\source\repos\BBLessons\ElevenNote.WebAPI\bin\Microsoft.Owin.Cors.dll
+C:\Users\mboon\source\repos\BBLessons\ElevenNote.WebAPI\bin\System.Web.Cors.dll
+C:\Users\mboon\source\repos\BBLessons\ElevenNote.WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\mboon\source\repos\BBLessons\ElevenNote.WebAPI\bin\Microsoft.Owin.Cors.xml
+C:\Users\mboon\source\repos\BBLessons\ElevenNote.WebAPI\bin\System.Web.Http.Cors.xml

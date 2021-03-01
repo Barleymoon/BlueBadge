@@ -36,3 +36,8 @@ C:\Users\mboon\source\repos\BBLessons\ElevenNote.Data\obj\Debug\ElevenNote.Data.
 C:\Users\mboon\source\repos\BBLessons\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialCreate.resources
 C:\Users\mboon\source\repos\BBLessons\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.cache
 C:\Users\mboon\source\repos\BBLessons\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.Initial.resources
+C:\Users\mboon\source\repos\BBLessons\ElevenNote.Data\bin\Debug\Microsoft.Owin.Cors.dll
+C:\Users\mboon\source\repos\BBLessons\ElevenNote.Data\bin\Debug\System.Web.Cors.dll
+C:\Users\mboon\source\repos\BBLessons\ElevenNote.Data\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\mboon\source\repos\BBLessons\ElevenNote.Data\bin\Debug\Microsoft.Owin.Cors.xml
+C:\Users\mboon\source\repos\BBLessons\ElevenNote.Data\bin\Debug\System.Web.Http.Cors.xml

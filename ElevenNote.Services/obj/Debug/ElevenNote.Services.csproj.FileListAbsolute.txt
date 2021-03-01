@@ -20,3 +20,17 @@ C:\Users\mboon\source\repos\BBLessons\ElevenNote.Services\bin\Debug\ElevenNote.D
 C:\Users\mboon\source\repos\BBLessons\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll.config
 C:\Users\mboon\source\repos\BBLessons\ElevenNote.Services\bin\Debug\ElevenNote.Models.pdb
 C:\Users\mboon\source\repos\BBLessons\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll.config
+C:\Users\mboon\source\repos\BBLessons\ElevenNote.Services\bin\Debug\Microsoft.Owin.Cors.dll
+C:\Users\mboon\source\repos\BBLessons\ElevenNote.Services\bin\Debug\Microsoft.Owin.dll
+C:\Users\mboon\source\repos\BBLessons\ElevenNote.Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mboon\source\repos\BBLessons\ElevenNote.Services\bin\Debug\Owin.dll
+C:\Users\mboon\source\repos\BBLessons\ElevenNote.Services\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\mboon\source\repos\BBLessons\ElevenNote.Services\bin\Debug\System.Web.Cors.dll
+C:\Users\mboon\source\repos\BBLessons\ElevenNote.Services\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\mboon\source\repos\BBLessons\ElevenNote.Services\bin\Debug\System.Web.Http.dll
+C:\Users\mboon\source\repos\BBLessons\ElevenNote.Services\bin\Debug\Microsoft.Owin.xml
+C:\Users\mboon\source\repos\BBLessons\ElevenNote.Services\bin\Debug\Microsoft.Owin.Cors.xml
+C:\Users\mboon\source\repos\BBLessons\ElevenNote.Services\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mboon\source\repos\BBLessons\ElevenNote.Services\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\mboon\source\repos\BBLessons\ElevenNote.Services\bin\Debug\System.Web.Http.xml
+C:\Users\mboon\source\repos\BBLessons\ElevenNote.Services\bin\Debug\System.Web.Http.Cors.xml
